@@ -5,6 +5,7 @@ import java.io.Serializable;
 public class EmployeeDTO implements Serializable{
 	
 	private String ename;
+	
 	private  String eadd;
 	private  float bSal;
 	private float da;
