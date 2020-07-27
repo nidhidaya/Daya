@@ -1,5 +1,4 @@
 package com.nt.test;
-
 import java.util.Scanner;
 
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
