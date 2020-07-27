@@ -9,9 +9,7 @@ public class EmployeeDTO implements Serializable{
 	private  float bSal;
 	private float da;
 	private float hra;
-	
 	//Generate Getters && Setters
-	
 	public String getEname() {
 		return ename;
 	}
