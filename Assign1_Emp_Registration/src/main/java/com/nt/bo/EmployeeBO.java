@@ -9,7 +9,6 @@ public class EmployeeBO {
 	
 	//Getters && Setters
 	
-	
 	public String geteName() {
 		return eName;
 	}
