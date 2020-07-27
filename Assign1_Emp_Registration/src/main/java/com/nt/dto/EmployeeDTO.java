@@ -12,7 +12,6 @@ public class EmployeeDTO implements Serializable{
 	
 	//Generate Getters && Setters
 	
-	
 	public String getEname() {
 		return ename;
 	}
